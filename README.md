@@ -1,6 +1,5 @@
 
-> Open this page at https://github.com/LevathonDevelopmentStudio/MicroOS-Microbit
-
+> Open this page at https://makecode.microbit.org/_68xCW62V832U
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
